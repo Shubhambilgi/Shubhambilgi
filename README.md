@@ -1,222 +1,189 @@
- # 👋 Hi, I'm Shubham Bilgi
+ <h1 align="center">Hi there, I'm Shubham Bilgi 👋</h1>
 
-### 🛡️ Cybersecurity | VAPT | Web Security | Software Development
+<h3 align="center">🛡️ Cybersecurity | VAPT | Web Security | Software Development</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Breaking+things+to+make+them+secure...;VAPT+%7C+Web+Security+%7C+SOC;React+%7C+TypeScript+%7C+Python+%7C+SQL;Always+learning%2C+always+building." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-bilgi-234044283">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shubhambilgi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shubhambilgi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubhambilgi&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Shubhambilgi?style=for-the-badge&color=blue" alt="GitHub followers" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
 
 I'm an **Information Technology graduate** with hands-on experience across **Cybersecurity, Web Development, and Data Analytics**.
 
-My primary interest is **Cybersecurity and VAPT**, with practical exposure to web application security testing, vulnerability analysis, security monitoring, and security tools. I also have development experience with **React, TypeScript, Python, SQL, MySQL, REST APIs, and data visualization**.
+My primary interest is **Cybersecurity and VAPT** — web application security testing, vulnerability analysis, security monitoring, and security tooling. I also build with **React, TypeScript, Python, SQL, and REST APIs**, and enjoy turning raw data into dashboards that actually help people make decisions.
 
-I enjoy understanding how systems work, identifying security weaknesses, building practical solutions, and continuously improving my technical skills.
-
----
-
-## 🛡️ Cybersecurity
-
-* Web Application Security Testing
-* Vulnerability Assessment & Penetration Testing (VAPT)
-* OWASP Top 10
-* SQL Injection (SQLi)
-* Cross-Site Scripting (XSS)
-* Authentication & Access Control Testing
-* Network Enumeration
-* Packet Analysis
-* Security Reporting
-* Log Analysis & Security Monitoring
-
-### 🔧 Security Tools
-
-`Burp Suite` `Nmap` `Wireshark` `Gobuster` `Kali Linux`
+- 🔭 Currently building: security-focused Python tooling & React/TypeScript apps
+- 🌱 Currently learning: Advanced Web App Security, VAPT methodologies, Threat Detection
+- 🎯 Looking for: **Cybersecurity • VAPT • Web App Security • SOC • Network Security** roles
+- 💬 Ask me about: Burp Suite, OWASP Top 10, Power BI dashboards, React/TypeScript apps
+- ⚡ Fun fact: I like finding the bug *before* it finds production
 
 ---
 
-## 💻 Development
+### 🛡️ Cybersecurity Toolkit
 
-### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" />
+</p>
 
-`React.js` `TypeScript` `HTML5` `CSS3` `Responsive Web Design`
+**Focus areas:** Web App Security Testing · VAPT · SQL Injection · XSS · Auth & Access Control Testing · Network Enumeration · Packet Analysis · Log Analysis & Security Monitoring
 
-### Backend & Database
-
-`Node.js` `MySQL` `REST APIs` `Authentication & Authorization`
-
-### Programming
-
-`Python` `TypeScript` `SQL` `Java`
-
-### Tools
-
-`Git` `GitHub` `VS Code` `Android Studio`
+> ⚠️ All security testing is performed only against authorized systems, labs, or intentionally vulnerable applications.
 
 ---
 
-## 📊 Data & Analytics
+### 💻 Development Stack
 
-`Python` `Pandas` `SQL` `Power BI` `Microsoft Excel`
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
+</p>
 
-* Data Cleaning & Transformation
-* Data Validation
-* Data Merging
-* KPI Tracking
-* Dashboard Development
-* Trend Analysis
-* Business Reporting
+### 📊 Data & Analytics
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
-# 🚀 Featured Projects
-
-## 🛡️ BreachAware-LAW
-
-**Python-based security monitoring and log analysis tool**
-
-* Analyzes **10,000+ log entries** to identify failed login attempts and suspicious access patterns.
-* Implements log filtering and event correlation for security monitoring.
-* Generates automated PDF incident reports.
-* Focused on improving the efficiency of security analysis and reporting.
-
-**Tech:** `Python` `Log Analysis` `Security Monitoring` `PDF Reporting`
-
----
-
-## 🔐 Web Application Security Testing
-
-**Hands-on web application security assessment project**
-
-* Performed security assessments using **OWASP Top 10 methodologies**.
-* Tested **20+ application endpoints** using Burp Suite Proxy and Repeater.
-* Investigated SQL Injection, XSS, authentication weaknesses, and access-control issues.
-* Practiced HTTP request analysis, modification, and vulnerability validation.
-
-**Tech:** `Burp Suite` `OWASP Top 10` `Nmap` `Web Security`
-
-> ⚠️ Security testing activities are performed only against authorized systems, labs, and intentionally vulnerable applications.
+Data Cleaning & Transformation · Data Validation & Merging · KPI Tracking · Dashboard Development · Trend Analysis · Business Reporting
 
 ---
 
-## 🤖 Camera-Based Image Segmentation System
+### 🚀 Featured Projects
 
-**Real-time computer vision application**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* Developed a camera-based object segmentation system using Python and OpenCV.
-* Integrated deep-learning-based segmentation techniques.
-* Implemented image preprocessing and real-time frame analysis.
-* Optimized processing to achieve approximately **20–30 FPS** in a laptop environment.
+**🛡️ [BreachAware-LAW](https://github.com/Shubhambilgi)**
+Python-based security monitoring & log analysis tool. Analyzes 10,000+ log entries to flag failed logins and suspicious patterns, with automated PDF incident reports.
+`Python` `Log Analysis` `Security Monitoring`
 
-**Tech:** `Python` `OpenCV` `PyTorch` `SAM2`
+</td>
+<td width="50%" valign="top">
 
----
+**🔐 Web Application Security Testing**
+OWASP Top 10 assessments across 20+ endpoints using Burp Suite Proxy/Repeater — SQLi, XSS, auth weaknesses, and access-control issues.
+`Burp Suite` `OWASP Top 10` `Nmap`
 
-## 📊 AgriCast-Data
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Agricultural data analysis and visualization project**
+**🤖 Camera-Based Image Segmentation**
+Real-time computer vision app using Python, OpenCV, PyTorch, and SAM2 — ~20–30 FPS on a laptop.
+`Python` `OpenCV` `PyTorch` `SAM2`
 
-* Cleaned and transformed **3,000+ agricultural records**.
-* Used Python, Pandas, and SQL for data analysis.
-* Built interactive Power BI dashboards for crop yield, rainfall, and agricultural performance.
-* Performed exploratory analysis to identify trends and patterns.
+</td>
+<td width="50%" valign="top">
 
-**Tech:** `Python` `Pandas` `SQL` `Power BI`
+**📊 AgriCast-Data**
+Cleaned & analyzed 3,000+ agricultural records; built interactive Power BI dashboards for crop yield, rainfall, and performance trends.
+`Python` `Pandas` `SQL` `Power BI`
 
----
-
-# 💼 Experience
-
-### 🔐 Cyber Security Intern — SpringUp Labs
-
-**April 2025 – July 2025 | Pune**
-
-* Conducted security assessments on production web applications.
-* Tested for SQL Injection, XSS, authentication, and access-control vulnerabilities.
-* Used Burp Suite, Nmap, Gobuster, and Wireshark during security testing.
-* Prepared vulnerability assessment reports with findings, risk ratings, and remediation recommendations.
-
----
-
-### 💻 Web Developer Intern — EngageSphere Technology Pvt. Ltd.
-
-**January 2026 – March 2026 | Pune**
-
-* Developed two property applications, **NiwasNest** and **PropConnect**, using React and TypeScript.
-* Built property search, user profiles, and responsive application interfaces.
-* Integrated APIs and MySQL-backed application features.
-* Integrated Google APIs for location-based functionality and property search.
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 Data Analyst Intern — SORT Solutions
+### 💼 Experience
 
-**March 2025 – June 2025 | Pune**
+| Role | Company | Duration |
+|---|---|---|
+| 🔐 Cyber Security Intern | SpringUp Labs | Apr 2025 – Jul 2025 |
+| 💻 Web Developer Intern | EngageSphere Technology Pvt. Ltd. | Jan 2026 – Mar 2026 |
+| 📊 Data Analyst Intern | SORT Solutions | Mar 2025 – Jun 2025 |
 
-* Collected, cleaned, and transformed business datasets containing **5,000+ records**.
-* Used SQL and Excel to merge and prepare data from multiple sources.
-* Developed **5+ interactive Power BI dashboards**.
-* Generated analytical reports and visual insights for business decision-making.
+<details>
+<summary><b>See details</b></summary>
+<br>
 
----
+**Cyber Security Intern — SpringUp Labs**
+Conducted security assessments on production web apps; tested SQLi, XSS, auth, and access-control vulnerabilities using Burp Suite, Nmap, Gobuster, and Wireshark; prepared VAPT reports with risk ratings and remediation steps.
 
-# 🎓 Education
+**Web Developer Intern — EngageSphere Technology Pvt. Ltd.**
+Built **NiwasNest** and **PropConnect** property apps in React and TypeScript; implemented search, profiles, and responsive UI; integrated REST APIs, MySQL, and Google APIs for location-based search.
 
-### Bachelor of Engineering — Information Technology
+**Data Analyst Intern — SORT Solutions**
+Cleaned and merged 5,000+ records from multiple sources using SQL/Excel; built 5+ interactive Power BI dashboards and analytical reports for business decisions.
 
-**SPPU University — NBNSTIC**
-
-**November 2022 – June 2026**
-CGPA: **6.61**
-
-### Higher Secondary Education — Computer Science
-
-**D.A.V. Centenary Public School**
-
-**August 2020 – June 2022**
-Percentage: **64%**
+</details>
 
 ---
 
-# 📜 Certifications
+### 📈 GitHub Stats
 
-* 🛡️ **Ethical Hacker** — Cisco Networking Academy
-* 🔐 **Foundations of Cybersecurity** — Google Cybersecurity Professional Certificate
-* 🌐 **Introduction to Cybersecurity** — Cisco Networking Academy
-* 💻 **C++ Programming** — IIT Bombay
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhambilgi&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhambilgi&theme=radical&hide_border=true" width="49%" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhambilgi&layout=compact&theme=radical&hide_border=true" width="49%" />
+</p>
 
-# 🌱 Currently Learning
-
-* Advanced Web Application Security
-* VAPT Methodologies
-* Network Security
-* Threat Detection & Security Monitoring
-* Python for Cybersecurity
-* Secure Software Development
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhambilgi&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-# 🎯 Career Focus
+### 🎓 Education
 
-I'm currently interested in opportunities related to:
+**Bachelor of Engineering — Information Technology**
+SPPU University — NBNSTIC · Nov 2022 – Jun 2026 · CGPA: 6.61
 
-**Cybersecurity • VAPT • Web Application Security • SOC • Network Security • Security Research**
+**Higher Secondary Education — Computer Science**
+D.A.V. Centenary Public School · Aug 2020 – Jun 2022 · 64%
 
-I'm also open to opportunities involving:
+### 📜 Certifications
 
-**Software Development • Python Development • Data Analytics**
-
----
-
-# 📫 Connect With Me
-
-📧 **Email:** [shubhambilgi@gmail.com](mailto:shubhambilgi@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/shubham-bilgi-234044283](https://www.linkedin.com/in/shubham-bilgi-234044283)
-
-🐙 **GitHub:** [github.com/Shubhambilgi](https://github.com/Shubhambilgi)
+- 🛡️ Ethical Hacker — Cisco Networking Academy
+- 🔐 Foundations of Cybersecurity — Google Cybersecurity Professional Certificate
+- 🌐 Introduction to Cybersecurity — Cisco Networking Academy
+- 💻 C++ Programming — IIT Bombay
 
 ---
 
-## ⭐ Thanks for visiting my profile!
-
-If you find any of my projects interesting, feel free to explore the repositories.
-
-**Let's build, break, secure, and learn. 🚀**
+<p align="center">
+  <i>Let's build, break, secure, and learn. 🚀</i>
+</p>
  
