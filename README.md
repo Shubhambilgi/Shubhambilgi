@@ -1,4 +1,4 @@
- <h1 align="center">Hi there, I'm Shubham Bilgi 👋</h1>
+<h1 align="center">Hi there, I'm Shubham Bilgi 👋</h1>
 
 <h3 align="center">🛡️ Cybersecurity | VAPT | Web Security | Software Development</h3>
 
@@ -152,12 +152,12 @@ Cleaned and merged 5,000+ records from multiple sources using SQL/Excel; built 5
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhambilgi&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhambilgi&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Shubhambilgi&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Shubhambilgi&theme=radical&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhambilgi&layout=compact&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shubhambilgi&layout=compact&theme=radical&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
@@ -186,4 +186,3 @@ D.A.V. Centenary Public School · Aug 2020 – Jun 2022 · 64%
 <p align="center">
   <i>Let's build, break, secure, and learn. 🚀</i>
 </p>
- 
