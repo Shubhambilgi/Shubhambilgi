@@ -82,44 +82,52 @@ Web app security testing, VAPT, SQL injection & XSS testing, auth/access-control
 ### 🚀 Projects
 
 #### 01 · [camera-segmentation-av](https://github.com/Shubhambilgi/camera-segmentation-av)
-Real-time computer vision app using Python, OpenCV, PyTorch, and SAM2 for object segmentation.
+A real-time computer vision system that segments objects straight from a live camera feed. Under the hood, it combines classical image preprocessing with deep-learning-based segmentation (SAM2) to identify object boundaries frame-by-frame. The pipeline is optimized to run at roughly 20–30 FPS on a regular laptop, which meant squeezing real performance out of consumer hardware rather than relying on cloud GPUs. A solid dive into applied computer vision and real-time systems design.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6f42c1?style=flat-square)
 
 <br>
 
 #### 02 · [AgriCast-Data](https://github.com/Shubhambilgi/AgriCast-Data)
-Power BI dashboards built from 3,000+ agricultural records for crop yield and trend analysis.
+An end-to-end data analytics project built on 3,000+ real agricultural records. The raw data needed serious cleaning and transformation before it was usable — missing values, inconsistent units, messy formatting — all handled with Python and Pandas. From there, SQL was used to structure and query the data, and the results were turned into interactive Power BI dashboards covering crop yield, rainfall patterns, and overall agricultural performance. The goal was to make trends in farming data actually visible and actionable, not just numbers in a spreadsheet.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 <br>
 
 #### 03 · [LaptopMatch-Recommendation-Dashboard](https://github.com/Shubhambilgi/LaptopMatch-Recommendation-Dashboard)
-A recommendation dashboard that matches users with the right laptop based on their needs.
+A recommendation dashboard built to solve a genuinely annoying problem: figuring out which laptop actually fits your needs from thousands of confusing options. It analyzes laptop specifications and user requirements to surface the best matches, cutting through marketing noise with data instead of guesswork. The project involved structuring and cleaning specification data, then designing logic to score and rank options meaningfully. A practical example of applying data analysis to a real, everyday decision.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4479A1?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4479A1?style=flat-square) ![Recommendation%20Logic](https://img.shields.io/badge/Recommendation%20Logic-2ea44f?style=flat-square)
 
 <br>
 
 #### 04 · [BreachAware-LAW](https://github.com/Shubhambilgi/BreachAware-LAW)
-Scans 10,000+ log entries to flag suspicious activity and generates automated PDF incident reports.
+A Python-based security monitoring tool built to cut through the noise of raw system logs. It processes 10,000+ log entries, filtering and correlating events to surface failed login attempts and suspicious access patterns that would be nearly impossible to catch by hand. Once it identifies something worth flagging, it automatically generates a clean, structured PDF incident report — turning a wall of log text into something a security team could actually act on. Built with an eye toward making log analysis faster and less error-prone.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-6E7681?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-6E7681?style=flat-square) ![Automated Reporting](https://img.shields.io/badge/Automated%20Reporting-d29922?style=flat-square)
 
 <br>
 
 #### 05 · [web-App-Pen-testing](https://github.com/Shubhambilgi/web-App-Pen-testing)
-OWASP Top 10 assessment across 20+ endpoints using Burp Suite — SQLi, XSS, and access-control testing.
+A hands-on web application security assessment covering 20+ live endpoints, structured around the OWASP Top 10 methodology. Using Burp Suite's Proxy and Repeater, requests were intercepted, modified, and replayed to probe for real vulnerabilities — SQL injection, cross-site scripting, broken authentication, and access-control flaws. Beyond just finding issues, the project involved documenting findings clearly enough that someone else could reproduce and fix them. A practical exercise in thinking like an attacker to help build safer applications.
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square) ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square) ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
 
 <br>
 
 #### 06 · [CyberVault_CTF](https://github.com/Shubhambilgi/CyberVault_CTF)
-Capture-the-flag style challenges exploring vulnerabilities and exploitation techniques hands-on.
+A collection of Capture-the-Flag style challenges tackled to build practical, hands-on offensive security skills. Each challenge simulates a different vulnerability or exploitation scenario, pushing past theory into actually finding and exploiting weaknesses in a safe, sandboxed environment. It's the kind of project that sharpens the instinct security work depends on — noticing the thing that looks slightly wrong and knowing how to dig into it.
 
-![CTF](https://img.shields.io/badge/CTF-2ea44f?style=flat-square) ![Security](https://img.shields.io/badge/Security-000000?style=flat-square)
+![CTF](https://img.shields.io/badge/CTF-2ea44f?style=flat-square) ![Security](https://img.shields.io/badge/Security-000000?style=flat-square) ![Exploitation](https://img.shields.io/badge/Exploitation-b62324?style=flat-square)
+
+---
+
+### 🕒 Latest Repositories
+*This section updates itself automatically whenever I push a new repo — no manual edits needed.*
+
+<!-- LATEST-PROJECTS:START -->
+<!-- LATEST-PROJECTS:END -->
 
 ---
 
