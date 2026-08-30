@@ -25,6 +25,16 @@
 
 ---
 
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shubhambilgi/Shubhambilgi/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake" />
+</p>
+
+---
+
 ### 🧑‍💻 About Me
 
 I'm an **Information Technology graduate** with hands-on experience across **Web Development, Data Analytics, and Cybersecurity**. I like the full picture — building an application, understanding what its data is telling you, and knowing how it could be attacked.
@@ -123,28 +133,24 @@ A collection of Capture-the-Flag style challenges tackled to build practical, ha
 
 ---
 
+### 🕒 Latest Repositories
+*This section updates itself automatically whenever I push a new repo — no manual edits needed.*
+
+<!-- LATEST-PROJECTS:START -->
+<!-- LATEST-PROJECTS:END -->
+
+---
+
 ### 💼 Experience
 
-| Role | Company | Duration |
-|---|---|---|
-| 💻 Web Developer Intern | EngageSphere Technology Pvt. Ltd. | Jan 2026 – Mar 2026 |
-| 📊 Data Analyst Intern | SORT Solutions | Mar 2025 – Jun 2025 |
-| 🔐 Cyber Security Intern | SpringUp Labs | Apr 2025 – Jul 2025 |
+**Web Developer Intern** — EngageSphere Technology Pvt. Ltd. · *Jan 2026 – Mar 2026*
+Built **NiwasNest** and **PropConnect**, two property apps, using React and TypeScript. Implemented search, user profiles, and responsive UI, and integrated REST APIs, MySQL, and Google APIs for location-based search.
 
-<details>
-<summary><b>See details</b></summary>
-<br>
+**Data Analyst Intern** — SORT Solutions · *Mar 2025 – Jun 2025*
+Cleaned and merged 5,000+ records from multiple sources using SQL and Excel. Built 5+ interactive Power BI dashboards and analytical reports that fed directly into business decisions.
 
-**Web Developer Intern — EngageSphere Technology Pvt. Ltd.**
-Built **NiwasNest** and **PropConnect** property apps in React and TypeScript; implemented search, profiles, and responsive UI; integrated REST APIs, MySQL, and Google APIs for location-based search.
-
-**Data Analyst Intern — SORT Solutions**
-Cleaned and merged 5,000+ records from multiple sources using SQL/Excel; built 5+ interactive Power BI dashboards and analytical reports for business decisions.
-
-**Cyber Security Intern — SpringUp Labs**
-Conducted security assessments on production web apps; tested SQLi, XSS, auth, and access-control vulnerabilities using Burp Suite, Nmap, Gobuster, and Wireshark; prepared VAPT reports with findings and remediation steps.
-
-</details>
+**Cyber Security Intern** — SpringUp Labs · *Apr 2025 – Jul 2025*
+Conducted security assessments on production web apps, testing for SQL injection, XSS, authentication, and access-control vulnerabilities using Burp Suite, Nmap, Gobuster, and Wireshark. Prepared VAPT reports with findings and remediation steps.
 
 ---
 
