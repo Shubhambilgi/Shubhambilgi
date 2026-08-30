@@ -27,14 +27,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shubhambilgi/Shubhambilgi/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake" />
-</p>
-
----
-
 ### 🧑‍💻 About Me
 
 I'm an **Information Technology graduate** with hands-on experience across **Web Development, Data Analytics, and Cybersecurity**. I like the full picture — building an application, understanding what its data is telling you, and knowing how it could be attacked.
