@@ -123,22 +123,6 @@ A collection of Capture-the-Flag style challenges tackled to build practical, ha
 
 ---
 
-### 🕒 Latest Repositories
-*This section updates itself automatically whenever I push a new repo — no manual edits needed.*
-
-<!-- LATEST-PROJECTS:START -->
-**[Network-Traffic-Analysis-with-Wireshark](https://github.com/Shubhambilgi/Network-Traffic-Analysis-with-Wireshark)**
-No description yet.
-![Stars](https://img.shields.io/badge/★-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/⑂-0-7c3aed?style=flat-square)
-
-**[myrepo](https://github.com/Shubhambilgi/myrepo)**
-No description yet.
-![Stars](https://img.shields.io/badge/★-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/⑂-0-7c3aed?style=flat-square)
-
-<!-- LATEST-PROJECTS:END -->
-
----
-
 ### 💼 Experience
 
 | Role | Company | Duration |
