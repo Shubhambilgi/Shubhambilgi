@@ -81,29 +81,45 @@ Web app security testing, VAPT, SQL injection & XSS testing, auth/access-control
 
 ### 🚀 Projects
 
-**01 · [camera-segmentation-av](https://github.com/Shubhambilgi/camera-segmentation-av)**
+#### 01 · [camera-segmentation-av](https://github.com/Shubhambilgi/camera-segmentation-av)
 Real-time computer vision app using Python, OpenCV, PyTorch, and SAM2 for object segmentation.
-`Python` · `OpenCV` · `PyTorch`
 
-**02 · [AgriCast-Data](https://github.com/Shubhambilgi/AgriCast-Data)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+<br>
+
+#### 02 · [AgriCast-Data](https://github.com/Shubhambilgi/AgriCast-Data)
 Power BI dashboards built from 3,000+ agricultural records for crop yield and trend analysis.
-`Python` · `Pandas` · `Power BI`
 
-**03 · [LaptopMatch-Recommendation-Dashboard](https://github.com/Shubhambilgi/LaptopMatch-Recommendation-Dashboard)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+<br>
+
+#### 03 · [LaptopMatch-Recommendation-Dashboard](https://github.com/Shubhambilgi/LaptopMatch-Recommendation-Dashboard)
 A recommendation dashboard that matches users with the right laptop based on their needs.
-`Python` · `Data Analysis`
 
-**04 · [BreachAware-LAW](https://github.com/Shubhambilgi/BreachAware-LAW)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4479A1?style=flat-square)
+
+<br>
+
+#### 04 · [BreachAware-LAW](https://github.com/Shubhambilgi/BreachAware-LAW)
 Scans 10,000+ log entries to flag suspicious activity and generates automated PDF incident reports.
-`Python` · `Log Analysis`
 
-**05 · [web-App-Pen-testing](https://github.com/Shubhambilgi/web-App-Pen-testing)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-6E7681?style=flat-square)
+
+<br>
+
+#### 05 · [web-App-Pen-testing](https://github.com/Shubhambilgi/web-App-Pen-testing)
 OWASP Top 10 assessment across 20+ endpoints using Burp Suite — SQLi, XSS, and access-control testing.
-`Burp Suite` · `OWASP Top 10`
 
-**06 · [CyberVault_CTF](https://github.com/Shubhambilgi/CyberVault_CTF)**
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square) ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+
+<br>
+
+#### 06 · [CyberVault_CTF](https://github.com/Shubhambilgi/CyberVault_CTF)
 Capture-the-flag style challenges exploring vulnerabilities and exploitation techniques hands-on.
-`CTF` · `Security`
+
+![CTF](https://img.shields.io/badge/CTF-2ea44f?style=flat-square) ![Security](https://img.shields.io/badge/Security-000000?style=flat-square)
 
 ---
 
