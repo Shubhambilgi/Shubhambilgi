@@ -83,7 +83,16 @@ I enjoy learning by building projects, analyzing real-world problems, and contin
 # 📊 GitHub Language Usage
 
 <!-- LANGUAGE-STATS:START -->
-_Updating language statistics..._
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-81.4%-F37626?style=for-the-badge" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/TypeScript-12.0%-3178C6?style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-4.5%-3776AB?style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/CSS-1.3%-1572B6?style=for-the-badge" alt="CSS" />
+  <img src="https://img.shields.io/badge/C-0.8%-A8B9CC?style=for-the-badge" alt="C" />
+  <img src="https://img.shields.io/badge/HTML-0.1%-E34F26?style=for-the-badge" alt="HTML" />
+</p>
+
+> Language percentages are based on code bytes reported by GitHub across my repositories.
 <!-- LANGUAGE-STATS:END -->
 
 ---
@@ -100,7 +109,20 @@ _Updating language statistics..._
 # ⭐ Today's Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
-_Projects will be automatically selected every day._
+**Automatically selected for 09 September 2026**
+
+### 🚀 [LaptopMatch-Recommendation-Dashboard](https://github.com/Shubhambilgi/LaptopMatch-Recommendation-Dashboard)
+
+Power BI dashboard for laptop comparison and recommendation using data analytics.
+
+![Multiple](https://img.shields.io/badge/Multiple-808080?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
+
+### 🚀 [CyberVault_CTF](https://github.com/Shubhambilgi/CyberVault_CTF)
+
+No description provided yet.
+
+![Multiple](https://img.shields.io/badge/Multiple-808080?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
+
 <!-- FEATURED-PROJECTS:END -->
 
 ---
@@ -108,7 +130,19 @@ _Projects will be automatically selected every day._
 # 📂 All My Repositories
 
 <!-- ALL-REPOSITORIES:START -->
-_Repositories will be automatically loaded from GitHub._
+| Repository | Language | ⭐ Stars | 🍴 Forks | Status |
+|---|---|---:|---:|---|
+| [Shubhambilgi](https://github.com/Shubhambilgi/Shubhambilgi) | Python | 0 | 0 | 🟢 Active |
+| [job-application-tracker](https://github.com/Shubhambilgi/job-application-tracker) | TypeScript | 0 | 0 | 🟢 Active |
+| [c-mini-projects](https://github.com/Shubhambilgi/c-mini-projects) | C | 0 | 0 | 🟢 Active |
+| [camera-segmentation-av](https://github.com/Shubhambilgi/camera-segmentation-av) | Python | 0 | 0 | 🟢 Active |
+| [BreachAware-LAW](https://github.com/Shubhambilgi/BreachAware-LAW) | Python | 0 | 0 | 🟢 Active |
+| [AgriCast-Data](https://github.com/Shubhambilgi/AgriCast-Data) | Jupyter Notebook | 0 | 0 | 🟢 Active |
+| [web-App-Pen-testing](https://github.com/Shubhambilgi/web-App-Pen-testing) | — | 0 | 0 | 🟢 Active |
+| [LaptopMatch-Recommendation-Dashboard](https://github.com/Shubhambilgi/LaptopMatch-Recommendation-Dashboard) | — | 0 | 0 | 🟢 Active |
+| [CyberVault_CTF](https://github.com/Shubhambilgi/CyberVault_CTF) | — | 0 | 0 | 🟢 Active |
+| [Network-Traffic-Analysis-with-Wireshark](https://github.com/Shubhambilgi/Network-Traffic-Analysis-with-Wireshark) | — | 0 | 0 | 🟢 Active |
+| [myrepo](https://github.com/Shubhambilgi/myrepo) | — | 0 | 0 | 🟢 Active |
 <!-- ALL-REPOSITORIES:END -->
 
 ---
