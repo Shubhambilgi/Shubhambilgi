@@ -84,10 +84,10 @@ I enjoy learning by building projects, analyzing real-world problems, and contin
 
 <!-- LANGUAGE-STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-81.4%-F37626?style=for-the-badge" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/TypeScript-12.0%-3178C6?style=for-the-badge" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-4.5%-3776AB?style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/CSS-1.3%-1572B6?style=for-the-badge" alt="CSS" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-78.9%-F37626?style=for-the-badge" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/TypeScript-11.6%-3178C6?style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-7.4%-3776AB?style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/CSS-1.2%-1572B6?style=for-the-badge" alt="CSS" />
   <img src="https://img.shields.io/badge/C-0.8%-A8B9CC?style=for-the-badge" alt="C" />
   <img src="https://img.shields.io/badge/HTML-0.1%-E34F26?style=for-the-badge" alt="HTML" />
 </p>
@@ -132,12 +132,12 @@ No description provided yet.
 <!-- ALL-REPOSITORIES:START -->
 | Repository | Language | ⭐ Stars | 🍴 Forks | Status |
 |---|---|---:|---:|---|
+| [AgriCast_Dashboard](https://github.com/Shubhambilgi/AgriCast_Dashboard) | Jupyter Notebook | 0 | 0 | 🟢 Active |
 | [Shubhambilgi](https://github.com/Shubhambilgi/Shubhambilgi) | Python | 0 | 0 | 🟢 Active |
 | [job-application-tracker](https://github.com/Shubhambilgi/job-application-tracker) | TypeScript | 0 | 0 | 🟢 Active |
 | [c-mini-projects](https://github.com/Shubhambilgi/c-mini-projects) | C | 0 | 0 | 🟢 Active |
 | [camera-segmentation-av](https://github.com/Shubhambilgi/camera-segmentation-av) | Python | 0 | 0 | 🟢 Active |
 | [BreachAware-LAW](https://github.com/Shubhambilgi/BreachAware-LAW) | Python | 0 | 0 | 🟢 Active |
-| [AgriCast-Data](https://github.com/Shubhambilgi/AgriCast-Data) | Jupyter Notebook | 0 | 0 | 🟢 Active |
 | [web-App-Pen-testing](https://github.com/Shubhambilgi/web-App-Pen-testing) | — | 0 | 0 | 🟢 Active |
 | [LaptopMatch-Recommendation-Dashboard](https://github.com/Shubhambilgi/LaptopMatch-Recommendation-Dashboard) | — | 0 | 0 | 🟢 Active |
 | [CyberVault_CTF](https://github.com/Shubhambilgi/CyberVault_CTF) | — | 0 | 0 | 🟢 Active |
