@@ -80,23 +80,6 @@ I enjoy learning by building projects, analyzing real-world problems, and contin
 
 ---
 
-# 📊 GitHub Language Usage
-
-<!-- LANGUAGE-STATS:START -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-78.9%-F37626?style=for-the-badge" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/TypeScript-11.6%-3178C6?style=for-the-badge" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-7.4%-3776AB?style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/CSS-1.2%-1572B6?style=for-the-badge" alt="CSS" />
-  <img src="https://img.shields.io/badge/C-0.8%-A8B9CC?style=for-the-badge" alt="C" />
-  <img src="https://img.shields.io/badge/HTML-0.1%-E34F26?style=for-the-badge" alt="HTML" />
-</p>
-
-> Language percentages are based on code bytes reported by GitHub across my repositories.
-<!-- LANGUAGE-STATS:END -->
-
----
-
 # ⭐ Today's Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
@@ -117,27 +100,6 @@ No description provided yet.
 <!-- FEATURED-PROJECTS:END -->
 
 ---
-
-# 📂 All My Repositories
-
-<!-- ALL-REPOSITORIES:START -->
-| Repository | Language | Status |
-|---|---|---:|---:|---|
-| [AgriCast_Dashboard](https://github.com/Shubhambilgi/AgriCast_Dashboard) | Jupyter Notebook | 🟢 Active |
-| [Shubhambilgi](https://github.com/Shubhambilgi/Shubhambilgi) | Python | 🟢 Active |
-| [job-application-tracker](https://github.com/Shubhambilgi/job-application-tracker) | TypeScript |🟢 Active |
-| [c-mini-projects](https://github.com/Shubhambilgi/c-mini-projects) | C |  🟢 Active |
-| [camera-segmentation-av](https://github.com/Shubhambilgi/camera-segmentation-av) | Python | 🟢 Active |
-| [BreachAware-LAW](https://github.com/Shubhambilgi/BreachAware-LAW) | Python |  🟢 Active |
-| [web-App-Pen-testing](https://github.com/Shubhambilgi/web-App-Pen-testing) | — |  🟢 Active |
-| [LaptopMatch-Recommendation-Dashboard](https://github.com/Shubhambilgi/LaptopMatch-Recommendation-Dashboard) | — | 🟢 Active |
-| [CyberVault_CTF](https://github.com/Shubhambilgi/CyberVault_CTF) | — |🟢 Active |
-| [Network-Traffic-Analysis-with-Wireshark](https://github.com/Shubhambilgi/Network-Traffic-Analysis-with-Wireshark) | — | 🟢 Active |
-| [myrepo](https://github.com/Shubhambilgi/myrepo) | — | 🟢 Active |
-<!-- ALL-REPOSITORIES:END -->
-
----
-
 # 💼 Experience
 
 ### Web Developer Intern
