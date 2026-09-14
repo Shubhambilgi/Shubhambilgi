@@ -83,17 +83,17 @@ I enjoy learning by building projects, analyzing real-world problems, and contin
 # ⭐ Today's Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
-**Automatically selected for 13 September 2026**
-
-### 🚀 [CyberVault_CTF](https://github.com/Shubhambilgi/CyberVault_CTF)
-
-No description provided yet.
-
-![Multiple](https://img.shields.io/badge/Multiple-808080?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
+**Automatically selected for 14 September 2026**
 
 ### 🚀 [LaptopMatch-Recommendation-Dashboard](https://github.com/Shubhambilgi/LaptopMatch-Recommendation-Dashboard)
 
 Power BI dashboard for laptop comparison and recommendation using data analytics.
+
+![Multiple](https://img.shields.io/badge/Multiple-808080?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
+
+### 🚀 [Network-Traffic-Analysis-with-Wireshark](https://github.com/Shubhambilgi/Network-Traffic-Analysis-with-Wireshark)
+
+No description provided yet.
 
 ![Multiple](https://img.shields.io/badge/Multiple-808080?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
 
