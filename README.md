@@ -83,19 +83,19 @@ I enjoy learning by building projects, analyzing real-world problems, and contin
 # ⭐ Today's Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
-**Automatically selected for 14 September 2026**
+**Automatically selected for 15 September 2026**
 
-### 🚀 [LaptopMatch-Recommendation-Dashboard](https://github.com/Shubhambilgi/LaptopMatch-Recommendation-Dashboard)
-
-Power BI dashboard for laptop comparison and recommendation using data analytics.
-
-![Multiple](https://img.shields.io/badge/Multiple-808080?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
-
-### 🚀 [Network-Traffic-Analysis-with-Wireshark](https://github.com/Shubhambilgi/Network-Traffic-Analysis-with-Wireshark)
+### 🚀 [web-App-Pen-testing](https://github.com/Shubhambilgi/web-App-Pen-testing)
 
 No description provided yet.
 
 ![Multiple](https://img.shields.io/badge/Multiple-808080?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
+
+### 🚀 [AgriCast_Dashboard](https://github.com/Shubhambilgi/AgriCast_Dashboard)
+
+Cleaned agriculture dataset for yield, soil, and rainfall analysis
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
 
 <!-- FEATURED-PROJECTS:END -->
 
