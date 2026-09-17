@@ -83,19 +83,19 @@ I enjoy learning by building projects, analyzing real-world problems, and contin
 # ⭐ Today's Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
-**Automatically selected for 16 September 2026**
+**Automatically selected for 17 September 2026**
 
-### 🚀 [c-mini-projects](https://github.com/Shubhambilgi/c-mini-projects)
+### 🚀 [myrepo](https://github.com/Shubhambilgi/myrepo)
 
-A growing collection of small C programs built to practice core C programming concepts.
+No description provided yet.
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
+![Multiple](https://img.shields.io/badge/Multiple-808080?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
 
-### 🚀 [camera-segmentation-av](https://github.com/Shubhambilgi/camera-segmentation-av)
+### 🚀 [AgriCast_Dashboard](https://github.com/Shubhambilgi/AgriCast_Dashboard)
 
-Camera Based Segmentation in Autonomous Vehicles
+Cleaned agriculture dataset for yield, soil, and rainfall analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
 
 <!-- FEATURED-PROJECTS:END -->
 
