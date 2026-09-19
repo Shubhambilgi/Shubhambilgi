@@ -83,19 +83,19 @@ I enjoy learning by building projects, analyzing real-world problems, and contin
 # ⭐ Today's Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
-**Automatically selected for 18 September 2026**
+**Automatically selected for 19 September 2026**
 
-### 🚀 [job-application-tracker](https://github.com/Shubhambilgi/job-application-tracker)
+### 🚀 [BreachAware-LAW](https://github.com/Shubhambilgi/BreachAware-LAW)
 
 No description provided yet.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
-
-### 🚀 [finance-tracker](https://github.com/Shubhambilgi/finance-tracker)
-
-Personal Finance Management App with Django REST and React
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
+
+### 🚀 [CyberVault_CTF](https://github.com/Shubhambilgi/CyberVault_CTF)
+
+No description provided yet.
+
+![Multiple](https://img.shields.io/badge/Multiple-808080?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
 
 <!-- FEATURED-PROJECTS:END -->
 
