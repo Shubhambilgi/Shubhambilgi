@@ -83,15 +83,15 @@ I enjoy learning by building projects, analyzing real-world problems, and contin
 # ⭐ Today's Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
-**Automatically selected for 19 September 2026**
+**Automatically selected for 20 September 2026**
 
-### 🚀 [BreachAware-LAW](https://github.com/Shubhambilgi/BreachAware-LAW)
+### 🚀 [LaptopMatch-Recommendation-Dashboard](https://github.com/Shubhambilgi/LaptopMatch-Recommendation-Dashboard)
 
-No description provided yet.
+Power BI dashboard for laptop comparison and recommendation using data analytics.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
+![Multiple](https://img.shields.io/badge/Multiple-808080?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
 
-### 🚀 [CyberVault_CTF](https://github.com/Shubhambilgi/CyberVault_CTF)
+### 🚀 [Network-Traffic-Analysis-with-Wireshark](https://github.com/Shubhambilgi/Network-Traffic-Analysis-with-Wireshark)
 
 No description provided yet.
 
