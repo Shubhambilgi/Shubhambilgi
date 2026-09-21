@@ -83,19 +83,19 @@ I enjoy learning by building projects, analyzing real-world problems, and contin
 # ⭐ Today's Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
-**Automatically selected for 20 September 2026**
+**Automatically selected for 21 September 2026**
 
-### 🚀 [LaptopMatch-Recommendation-Dashboard](https://github.com/Shubhambilgi/LaptopMatch-Recommendation-Dashboard)
-
-Power BI dashboard for laptop comparison and recommendation using data analytics.
-
-![Multiple](https://img.shields.io/badge/Multiple-808080?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
-
-### 🚀 [Network-Traffic-Analysis-with-Wireshark](https://github.com/Shubhambilgi/Network-Traffic-Analysis-with-Wireshark)
+### 🚀 [web-App-Pen-testing](https://github.com/Shubhambilgi/web-App-Pen-testing)
 
 No description provided yet.
 
 ![Multiple](https://img.shields.io/badge/Multiple-808080?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
+
+### 🚀 [c-mini-projects](https://github.com/Shubhambilgi/c-mini-projects)
+
+A growing collection of small C programs built to practice core C programming concepts.
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
 
 <!-- FEATURED-PROJECTS:END -->
 
