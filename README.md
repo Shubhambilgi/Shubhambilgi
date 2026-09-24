@@ -83,19 +83,19 @@ I enjoy learning by building projects, analyzing real-world problems, and contin
 # ⭐ Today's Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
-**Automatically selected for 23 September 2026**
+**Automatically selected for 24 September 2026**
 
-### 🚀 [web-App-Pen-testing](https://github.com/Shubhambilgi/web-App-Pen-testing)
+### 🚀 [camera-segmentation-av](https://github.com/Shubhambilgi/camera-segmentation-av)
+
+Camera Based Segmentation in Autonomous Vehicles
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
+
+### 🚀 [myrepo](https://github.com/Shubhambilgi/myrepo)
 
 No description provided yet.
 
 ![Multiple](https://img.shields.io/badge/Multiple-808080?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
-
-### 🚀 [c-mini-projects](https://github.com/Shubhambilgi/c-mini-projects)
-
-A growing collection of small C programs built to practice core C programming concepts.
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square) ![Stars](https://img.shields.io/badge/⭐%20Stars-0-f59e0b?style=flat-square) ![Forks](https://img.shields.io/badge/🍴%20Forks-0-7c3aed?style=flat-square)
 
 <!-- FEATURED-PROJECTS:END -->
 
