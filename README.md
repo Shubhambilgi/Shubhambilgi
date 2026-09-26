@@ -61,16 +61,13 @@ I learn by building projects, working with real technologies, and improving thro
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Database Usage
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2" />
+  <img src="./assets/database-usage.svg" alt="Database usage across public projects" width="850" />
 </p>
 
-- MySQL
-- PostgreSQL
-- SQL
-- Backend API integration
+> Percentage is based on the share of my **public database-backed projects** using each database. Current data covers 2 verified public projects.
 
 ---
 
