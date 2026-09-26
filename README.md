@@ -16,43 +16,31 @@ Software Developer • Cybersecurity Enthusiast • IT Graduate
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubhambilgi&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-I'm an IT graduate interested in **building, securing, and analyzing software**.
+I'm an IT graduate focused on **building practical software and learning how to secure it**.
 
-My current focus is on developing practical software applications while continuing to build my foundation in cybersecurity.
+- 💻 Software Development
+- 🌐 Web & Application Development
+- 🔐 Cybersecurity & Web Security
+- 🐍 Python
+- ⚛️ React & TypeScript
+- 🗄️ SQL & Databases
+- 📊 Data & Analytics
 
-* 💻 Software Development
-* 🌐 Web & Application Development
-* 🔐 Cybersecurity & Web Security
-* 🐍 Python Development
-* ⚛️ React & TypeScript
-* 🗄️ SQL & Databases
-* 📊 Data Analytics
-
-I learn by building projects, working with real-world technologies, and continuously improving my development and problem-solving skills.
+I learn by building projects, working with real technologies, and improving through hands-on problem solving.
 
 ---
 
-## 💻 Programming Languages
+## 🕸️ Programming Language Radar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp&perline=4" />
+  <img src="./assets/language-radar.svg" alt="Programming language radar chart" width="850" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sql" />
-</p>
-
-<p align="center">
-  <b>Python</b> • <b>TypeScript</b> • <b>JavaScript</b> • <b>C++</b> • <b>SQL</b>
-</p>
+> The radar is generated from **GitHub Linguist language byte counts** across my public repositories and is automatically refreshed with GitHub Actions.
 
 ---
 
@@ -62,18 +50,14 @@ I learn by building projects, working with real-world technologies, and continuo
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,nodejs&perline=6" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,reactnative,expo&perline=3" />
-</p>
-
-* React & TypeScript
-* JavaScript
-* HTML & CSS
-* Node.js
-* React Native
-* REST APIs
-* Authentication workflows
-* Android Studio
+- React & TypeScript
+- JavaScript
+- HTML & CSS
+- Node.js
+- REST APIs
+- Authentication workflows
+- React Native
+- Android Studio
 
 ---
 
@@ -83,10 +67,10 @@ I learn by building projects, working with real-world technologies, and continuo
   <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2" />
 </p>
 
-* MySQL
-* PostgreSQL
-* SQL
-* Backend API integration
+- MySQL
+- PostgreSQL
+- SQL
+- Backend API integration
 
 ---
 
@@ -102,14 +86,14 @@ I learn by building projects, working with real-world technologies, and continuo
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
-* Web application security
-* Vulnerability assessment
-* Penetration testing fundamentals
-* OWASP Top 10
-* Burp Suite
-* Nmap
-* Wireshark
-* Kali Linux
+- Web application security
+- Vulnerability assessment
+- Penetration testing fundamentals
+- OWASP Top 10
+- Burp Suite
+- Nmap
+- Wireshark
+- Kali Linux
 
 ---
 
@@ -119,64 +103,60 @@ I learn by building projects, working with real-world technologies, and continuo
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=4" />
 </p>
 
-* Git & GitHub
-* Visual Studio Code
-* Android Studio
-* Git-based development workflows
+- Git & GitHub
+- Visual Studio Code
+- Android Studio
+- Git-based development workflows
 
 ---
 
 ## 💼 Experience
 
 ### Web Developer Intern
-
-**EngageSphere Technology Pvt. Ltd. — Pune**
+**EngageSphere Technology Pvt. Ltd. — Pune**  
 **Jan 2026 – Mar 2026**
 
-* Developed mobile application interfaces using React and TypeScript.
-* Worked on multiple client projects.
-* Implemented authentication workflows.
-* Integrated frontend applications with backend APIs and MySQL.
-* Worked with Android Studio and React Native.
+- Developed mobile application interfaces using React and TypeScript.
+- Worked on multiple client projects.
+- Implemented authentication workflows.
+- Integrated frontend applications with backend APIs and MySQL.
+- Worked with Android Studio and React Native.
 
 ### Data Analyst Intern
-
-**SORT Solutions — Pune**
+**SORT Solutions — Pune**  
 **Mar 2025 – Jun 2025**
 
-* Performed market research and data analysis.
-* Created dashboards using Power BI.
-* Worked with Excel and data visualization.
-* Collaborated with team members on analytical tasks.
+- Performed market research and data analysis.
+- Created dashboards using Power BI.
+- Worked with Excel and data visualization.
+- Collaborated with team members on analytical tasks.
 
 ### Cyber Security Intern
-
-**SpringUp Labs — Pune**
+**SpringUp Labs — Pune**  
 **Apr 2025 – Jul 2025**
 
-* Performed vulnerability assessment and penetration testing activities.
-* Worked with web application security concepts.
-* Used tools such as Burp Suite, Nmap and Wireshark.
-* Studied OWASP Top 10 and common web vulnerabilities.
+- Performed vulnerability assessment and penetration testing activities.
+- Worked with web application security concepts.
+- Used tools such as Burp Suite, Nmap and Wireshark.
+- Studied OWASP Top 10 and common web vulnerabilities.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering — Information Technology**
-
-Sinhgad College of Engineering / SPPU
+**Bachelor of Engineering — Information Technology**  
+Sinhgad College of Engineering / SPPU  
 **2022 – 2026**
 
 ---
 
 ## 📜 Certifications
 
-* Ethical Hacker — Cisco
-* Introduction to Cybersecurity — Cisco
-* Foundations of Cybersecurity — Google
-* C++ Programming — IIT Bombay
-* Certified Penetration Testing Specialist — Hack & Fix
+- Ethical Hacker — Cisco
+- Introduction to Cybersecurity — Cisco
+- Foundations of Cybersecurity — Google
+- C++ Programming — IIT Bombay
+- Certified Penetration Testing Specialist — Hack & Fix
 
 ---
 
