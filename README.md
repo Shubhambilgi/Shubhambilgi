@@ -37,7 +37,7 @@ I learn by building projects, working with real technologies, and improving thro
 ## 🕸️ Programming Language Radar
 
 <p align="center">
-  <img src="./assets/language-radar.svg" alt="Programming language radar chart" width="850" />
+  <img src="./assets/language-radar-v2.svg" alt="Programming language radar chart" width="850" />
 </p>
 
 > The radar is generated from **GitHub Linguist language byte counts** across my public repositories and is automatically refreshed with GitHub Actions.
