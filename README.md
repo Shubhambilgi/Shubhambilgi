@@ -64,7 +64,7 @@ I learn by building projects, working with real technologies, and improving thro
 ## 🗄️ Database Usage
 
 <p align="center">
-  <img src="./assets/database-usage.svg" alt="Database usage across projects" width="850" />
+  <img src="./assets/database-usage-v2.svg" alt="Database usage across public and private projects" width="850" />
 </p>
 
 > Percentage is based on the share of my **verified database-backed projects** using each database. This includes public and private projects.
