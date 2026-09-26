@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+<rect width="900" height="430" rx="18" fill="#0d1117"/>
+<rect x="24" y="24" width="852" height="382" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="52" y="62" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="2">DATABASES</text>
+<text x="52" y="88" fill="#8b949e" font-family="Arial, sans-serif" font-size="13">PUBLIC PROJECT USAGE</text>
+<line x1="52" y1="108" x2="848" y2="108" stroke="#30363d"/>
+<g>
+<rect x="52" y="138" width="246" height="196" rx="12" fill="#0d1117" stroke="#30363d"/>
+<ellipse cx="175" cy="174" rx="42" ry="13" fill="none" stroke="#8b949e" stroke-width="3"/>
+<path d="M 133 174 V 207 C 133 221 217 221 217 207 V 174" fill="none" stroke="#8b949e" stroke-width="3"/>
+<ellipse cx="175" cy="207" rx="42" ry="13" fill="none" stroke="#8b949e" stroke-width="3"/>
+<text x="175" y="250" text-anchor="middle" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="18" font-weight="700">MySQL</text>
+<text x="175" y="286" text-anchor="middle" fill="#58a6ff" font-family="Arial, sans-serif" font-size="28" font-weight="700">50%</text>
+<text x="175" y="309" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">1 / 2 projects</text>
+<rect x="86" y="320" width="178" height="5" rx="3" fill="#30363d"/>
+<rect x="86" y="320" width="89" height="5" rx="3" fill="#58a6ff"/>
+</g><g>
+<rect x="322" y="138" width="246" height="196" rx="12" fill="#0d1117" stroke="#30363d"/>
+<ellipse cx="445" cy="174" rx="42" ry="13" fill="none" stroke="#8b949e" stroke-width="3"/>
+<path d="M 403 174 V 207 C 403 221 487 221 487 207 V 174" fill="none" stroke="#8b949e" stroke-width="3"/>
+<ellipse cx="445" cy="207" rx="42" ry="13" fill="none" stroke="#8b949e" stroke-width="3"/>
+<text x="445" y="250" text-anchor="middle" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="18" font-weight="700">SQLite</text>
+<text x="445" y="286" text-anchor="middle" fill="#58a6ff" font-family="Arial, sans-serif" font-size="28" font-weight="700">50%</text>
+<text x="445" y="309" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">1 / 2 projects</text>
+<rect x="356" y="320" width="178" height="5" rx="3" fill="#30363d"/>
+<rect x="356" y="320" width="89" height="5" rx="3" fill="#58a6ff"/>
+</g>
+<text x="768" y="160" text-anchor="end" fill="#8b949e" font-family="Arial, sans-serif" font-size="11">2 PUBLIC PROJECTS</text>
+<text x="450" y="378" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">Percentage = projects using the database ÷ public projects with detected database usage</text>
+</svg>
