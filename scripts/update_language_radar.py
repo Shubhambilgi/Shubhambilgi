@@ -53,9 +53,9 @@ def collect_languages():
 
 
 def radar_svg(languages):
-    width, height = 900, 620
-    cx, cy = 450, 315
-    radius = 205
+    width, height = 900, 660
+    cx, cy = 450, 335
+    radius = 195
     labels = list(languages.keys())
 
     if not labels:
@@ -81,8 +81,8 @@ def radar_svg(languages):
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
         '<rect width="100%" height="100%" rx="24" fill="#0d1117"/>',
-        '<text x="450" y="48" text-anchor="middle" fill="#f0f6fc" font-size="28" font-family="Arial,sans-serif" font-weight="700">Programming Language Radar</text>',
-        '<text x="450" y="76" text-anchor="middle" fill="#8b949e" font-size="14" font-family="Arial,sans-serif">Based on GitHub Linguist byte counts across public repositories</text>',
+        '<text x="450" y="34" text-anchor="middle" fill="#f0f6fc" font-size="28" font-family="Arial,sans-serif" font-weight="700">Programming Language Radar</text>',
+        '<text x="450" y="58" text-anchor="middle" fill="#8b949e" font-size="14" font-family="Arial,sans-serif">Based on GitHub Linguist byte counts across public repositories</text>',
     ]
 
     import math
@@ -130,7 +130,7 @@ def radar_svg(languages):
         )
 
     parts.append(
-        '<text x="450" y="585" text-anchor="middle" fill="#8b949e" font-size="12" '
+        '<text x="450" y="630" text-anchor="middle" fill="#8b949e" font-size="12" '
         'font-family="Arial,sans-serif">Automatically updated by GitHub Actions</text>'
     )
     parts.append("</svg>")
